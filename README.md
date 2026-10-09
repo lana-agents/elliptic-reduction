@@ -70,3 +70,5 @@ Run it locally with `bash .orchestra/validation.sh`.
 ## Tracker
 
 Work is tracked in taxis: [#5](https://taxis.lana.merten.dev/issues/5)
+
+License: Apache 2.0 (see LICENSE).
